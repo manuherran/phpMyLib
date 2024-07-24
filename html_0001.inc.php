@@ -8,6 +8,8 @@
 // Para mantener la compatibilidad entre editores de texto, en este 
 // fichero se utilizar�ara identar el espacio, y no el tabulador
 // ----------------------------------------------------------------------
+// html_0001
+// ----------------------------------------------------------------------
 // html_0001_htmlHead
 // html_0001_htmlBrLike2TagBr
 // html_0001_htmlMultiTagBr2DoubleBr

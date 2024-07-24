@@ -8,6 +8,8 @@
 // Para mantener la compatibilidad entre editores de texto, en este 
 // fichero se utilizará para identar el espacio, y no el tabulador
 // ----------------------------------------------------------------------
+// http_0001
+// ----------------------------------------------------------------------
 // peticionHttpGet --> http_0001_fHttpGetRequest
 // http_0001_fHttpGetRequest
 // http_0001_fHttpGetFlexibleRequest

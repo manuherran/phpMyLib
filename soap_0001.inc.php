@@ -8,6 +8,8 @@
 // Para mantener la compatibilidad entre editores de texto, en este 
 // fichero se utilizará para identar el espacio, y no el tabulador
 // ----------------------------------------------------------------------
+// soap_0001
+// ----------------------------------------------------------------------
 // soap_0001_fSoapRequestV1
 // soap_0001_fSoapRequestV2
 // ----------------------------------------------------------------------

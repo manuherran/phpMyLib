@@ -8,6 +8,8 @@
 // Para mantener la compatibilidad entre editores de texto, en este 
 // fichero se utilizará para identar el espacio, y no el tabulador
 // ----------------------------------------------------------------------
+// web_0005 + jsval_0005
+// ----------------------------------------------------------------------
 // jsval_0005_fTextBoxJsValidationCode
 // ----------------------------------------------------------------------
 function jsval_0005_fTextBoxJsValidationCode($lang, $textBoxJsVal, $formName, $textBoxName, $textBoxLabel) {
